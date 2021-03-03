@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "robotcook19-guex",
+  "private_key_id": "593189ae56879a5ddf6fc13730248bf9e55762ea",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCPsmQw5vf6PcmR\nPp7jFgfG3WOZWSuyUkikiq3Iv/Q+9pCA5uAUp6scI53EpekzQu6v+rSWdlDOtB1k\nF6AXvbb5ifZug8YnZr1iZ9oxJGZpoVR148aFhMV1i3HG5gUyzWI35B+GOVvGYwr1\nlAOHt0CmcU/Ck3XqEJ8lkHWXQAbP9ZYJvAOijxzluKFMdzGFxUApHaxGWzE1KnqX\nZ+8FhIhl7zK90UH+hU6JHZnvOlrDDPqKHxR/mfblCxrxFdkctJVdV1aYPUs+9VAx\nH8xF44hqjb3F5sAj9Ep7hEVPpR7fB7Fju1Pd79UqT0Dj8ljqFDrZzCPCHkir79n7\n7mQppsk/AgMBAAECggEAGzMEHfGKHLbXUYPN5WQFItJDCQLE76L9lw+c53PWEpjv\nL0cEQUSfcdsYAOH6qzZPIcZNqnFIyGd1bL3AEt5ZJRDFMZQFzO14iYjo1wZx0Cq2\nZv4vVJSWH7K+XYyqjTwtDDFE+k4fHgUfTO6wYF8CgL7P/x+UYTK2PREEARYgc/pa\nq9rwvrU6YfdcsxHxnDuWnvv3tyYdzzZDyeEYJVgS9dtp80Lo9w/f3wKGVjn14KXU\n1yvGtcphHtdB/v9glLrVce08FkcrdPS/yQqgEUPVupwKCOhAe006pzleIGrK0O67\nzOimZVa1QEWBr/McQkCEgCciu2WrHtWKRjLSqJapmQKBgQDK3tlQl7JDkbXoonpC\nGRhaVYL7MmCUhvuISdWhwEKm5DnKcHxDGWOimysxuNUpIfdRHDb2HHurv3+HiIgY\nYod+E0+5/Ougf76/xAAP+bqKVGrqhNYO3bGGUFdMjtAALEQfbgXM6z9/EWT0OPW0\nz2WgqWR5YyFCisRYtvDZAacHzQKBgQC1VFUTtnAcjxljMqxVmAd/Gu8FISYS9shB\n8Abw1D7XSvjU+307m/TkGvfjqs0zjnnn0H8uzWq2rkGoc+VyjX0jPiuPkwSILXi1\n6DbYt3lFG/sl3VJJ+cQZKZYRYKAOywA6Mt4NNiYEG4qGVqX2RcwJGSecc2kb6WVD\n5qMDQRDxOwKBgEeqB1yH6eoim/8M/mFBGjA3CukPt7xgHpTbeEMGdsUb1CpmKA9P\n9bloVQ7gezRnkkUt0WCJWUqngDZxjZoHnFN2IPDTnqz403pMk7URA8t/3LDxsehY\nejC3Ss95l5KoEHyF0ji8VZbenyoCwRFZPk5N6HdVBFfMS2YHYfdWtRl1AoGBAJQa\nRULMh9VLq9ix0sA2ZCkUvpTZ9lcW6YmxmnmpYYpG2eZbYnYFc4e73yw8nU222SrV\nyItZjAeZXFdSEd32YncemEW0NsdjHGy3NdTcRliD+iV7F3MEZX6H0OJwoUpz08O1\nOFhiGbrRI9uFehgj+fqUaR4HxZnej69d+Vb3FfdxAoGASTXZl/REN3EqNO17uglN\nEwBZFoTEXJBp3sY1wdwd2vA9yKRSiffxMF3BWVZQtmcyYGNmtQ1PAm3KVr2h8sws\nsjFPcW/fdfcEXRTYMimR9M0wTx7mzyYO/tKdJmQ1GVKdFGkmYnYcI8wZbJi21r5q\n2GPLuBjIMFR2OoHjtvZuVoc=\n-----END PRIVATE KEY-----\n",
+  "client_email": "cuenta-de-servicio-cook19@robotcook19-guex.iam.gserviceaccount.com",
+  "client_id": "105369963217176983655",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/cuenta-de-servicio-cook19%40robotcook19-guex.iam.gserviceaccount.com"
+}
